@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: c44966cb5da515048ab6a519341625d0
+timeCreated: 1451217669
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: back_tu_0
+    21300002: back_tu_1
+    21300004: back_tu_7
+    21300006: back_tu_8
+    21300008: back_tu_9
+    21300010: back_tu_10
+    21300012: back_tu_11
+    21300014: back_tu_12
+    21300016: back_tu_14
+    21300018: back_tu_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: back_tu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 256
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 16}
+        - {x: -128, y: -14}
+        - {x: -126, y: -15}
+        - {x: 128, y: -15}
+        - {x: 128, y: 16}
+    - name: back_tu_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 188
+        width: 240
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: back_tu_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 4
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: back_tu_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 95
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 39}
+        - {x: -39, y: 25}
+        - {x: -39, y: -28}
+        - {x: -36, y: -39}
+        - {x: 28, y: -39}
+        - {x: 39, y: -29}
+        - {x: 39, y: 25}
+        - {x: 34, y: 39}
+    - name: back_tu_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 100
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 32}
+        - {x: -34, y: 31}
+        - {x: -34, y: -32}
+        - {x: 33, y: -32}
+        - {x: 34, y: -28}
+        - {x: 34, y: 32}
+    - name: back_tu_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 101
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 33.5}
+        - {x: -32, y: -33.5}
+        - {x: 32, y: -33.5}
+        - {x: 32, y: 33.5}
+    - name: back_tu_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 42
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: back_tu_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 48
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: back_tu_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -26, y: 11}
+        - {x: -29, y: -2}
+        - {x: -29, y: -22}
+        - {x: -24, y: -24}
+        - {x: 29, y: -24}
+        - {x: 29, y: 9}
+        - {x: 15, y: 24}
+    - name: back_tu_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 9
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 36.5}
+        - {x: -15, y: 26.5}
+        - {x: -19, y: -3.5}
+        - {x: -19, y: -36.5}
+        - {x: 8, y: -36.5}
+        - {x: 19, y: -11.5}
+        - {x: 19, y: 34.5}
+        - {x: 18, y: 36.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

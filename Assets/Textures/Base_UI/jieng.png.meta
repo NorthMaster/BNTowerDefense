@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 316def8f48ce56d4d8c9dabb8195f19d
+timeCreated: 1451216456
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jieng_0
+    21300002: jieng_1
+    21300004: jieng_2
+    21300006: jieng_3
+    21300008: jieng_4
+    21300010: jieng_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: jieng_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 380
+        width: 106
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 51.5}
+        - {x: -53, y: -51.5}
+        - {x: 53, y: -51.5}
+        - {x: 53, y: 51.5}
+    - name: jieng_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 381
+        width: 109
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 52.5}
+        - {x: -54.5, y: -52.5}
+        - {x: 54.5, y: -52.5}
+        - {x: 54.5, y: 52.5}
+    - name: jieng_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 380
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 51.5}
+        - {x: -51.5, y: -51.5}
+        - {x: 46.5, y: -51.5}
+        - {x: 51.5, y: -49.5}
+        - {x: 51.5, y: 50.5}
+        - {x: 50.5, y: 51.5}
+    - name: jieng_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 213
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 53}
+        - {x: -53, y: 45}
+        - {x: -53, y: -53}
+        - {x: 53, y: -53}
+        - {x: 53, y: 53}
+    - name: jieng_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 213
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 53}
+        - {x: -53.5, y: 43}
+        - {x: -53.5, y: -42}
+        - {x: -46.5, y: -53}
+        - {x: 53.5, y: -53}
+        - {x: 53.5, y: 53}
+    - name: jieng_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 214
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 51.5}
+        - {x: -51.5, y: 43.5}
+        - {x: -51.5, y: -51.5}
+        - {x: 51.5, y: -51.5}
+        - {x: 51.5, y: 51.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROOT>
+  <table wave="1" enemyname="micro_dragon_mobile" level="1" wait="4" spawnpoint="0" speed="0.8" spawncount="10"/>
+  <table wave="2" enemyname="micro_ghost_mobile" level="2" wait="4" spawnpoint="1" speed="1" spawncount="13"/>
+  <table wave="3" enemyname="micro_mummy_mobile" level="2" wait="4" spawnpoint="1" speed="1.2" spawncount="9"/>
+  <table wave="4" enemyname="micro_orc_mobile" level="3" wait="4" spawnpoint="0" speed="1.4" spawncount="10"/>
+  <table wave="5" enemyname="micro_skeleton_mobile" level="3" wait="4" spawnpoint="1" speed="1.6" spawncount="12"/>
+  <table wave="6" enemyname="micro_werewolf_mobile" level="4" wait="4" spawnpoint="0" speed="1.8" spawncount="10"/>
+  <table wave="7" enemyname="micro_zombie_mobile" level="4" wait="4" spawnpoint="1" speed="2" spawncount="10"/>
+  </ROOT>
